@@ -1,0 +1,59 @@
+/* Put your custom styles here */
+#navbar-collapse .nav-item a:hover{
+    color: #FF5858 !important;
+}
+
+#navbar-collapse .nav-item a:click{
+    color: #FF5858 !important;
+}
+
+#promo-1 h2 {
+    font-weight: 400;
+    color: #444;
+}
+
+#promo-1 p {
+    font-weight: 500;
+    color: #444;
+}
+
+#promo-1 input{
+    width: 320px;
+    height: 35px;
+    outline: 0 !important;
+    border-radius: 5px;
+}
+
+#promo-1 .btn-block{
+    width: 320px;
+    height: 37px;
+    background: #FF5858;
+    box-shadow: none;
+    border-radius: 50px;
+}
+
+#kare-steps .tab-content img{
+    width: 300px;
+    height: 150px;
+}
+
+#kare-newsletter{
+    background-color: #F8F8F8;
+}
+
+#kare-newsletter h2{
+    color: #444;
+}
+
+#kare-newsletter .btn {
+    outline: none;
+    background-color: #FF5858;
+}
+
+#kare-newsletter input,span{
+   outline-color: none !important;
+}
+
+#kare-why1,#kare-why2{
+    margin-bottom: 50px;
+}
